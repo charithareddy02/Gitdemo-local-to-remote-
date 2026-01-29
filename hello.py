@@ -1,4 +1,7 @@
-c
-C
-C
-0
+
+print("welcome to devops lab")
+
+
+
+
+
